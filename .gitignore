@@ -1,0 +1,25 @@
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.launch
+
+*.log
+
+# Eclipse project files
+target
+.classpath
+.settings
+.project
+.externalToolBuilders
+test-output
+
+#Intellij project files
+*.iml
+.idea
+
+atlassian-ide-plugin.xml
+
+ndovu.query.parser/src/main/generated
